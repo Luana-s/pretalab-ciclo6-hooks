@@ -1,6 +1,8 @@
 import react, { useState } from "react";
 import Palpiteiro from "./Palpiteiro";
 
+
+
 const ContadorPalpiteiro = () => {
   const [numero, setNumero] = useState(0);
 
